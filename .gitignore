@@ -11,3 +11,6 @@ playwright-report
 node_modules
 railway.json
 *.log
+node_modules
+railway.json
+*.log
